@@ -1,5 +1,13 @@
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/2d687d77-13b8-4777-9d5f-be46e11ce7fc" />
 
+Project Title: Auto MPG
+
+Prepared by: Sona Shakoory
+
+Program: MIT Professional Education – Applied Data Science
+
+Unsupervised Learning: Dimensionality Reduction Analysis Using PCA and t-SNE
+
 Context
 
 The shifting market conditions, globalization, cost pressure, and volatility are leading to a change in the automobile market landscape. The emergence of data, in conjunction with machine learning in automobile companies, has paved a way that is helping bring operational and business transformations.
